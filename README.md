@@ -1,4 +1,4 @@
-# Memory-Mastermind-CLI
+# Memory Mastermind CLI
 Command Line Interface game based on RobTop's Memory Mastermind
 
 <img src="https://github.com/yemibox51/Memory-Mastermind-CLI/assets/19742642/f6745a7d-e3e7-47f0-bf23-818b99445f9b" width="25%" height="25%">
